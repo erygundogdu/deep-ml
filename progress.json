@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T18:37:21.842Z",
+  "generated_at": "2026-09-20T18:37:23.904Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -26,6 +26,149 @@
       "last_pushed_at": "2026-05-07T13:36:08.415Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-05-08T05:19:53.617Z",
+      "last_pushed_at": "2026-05-08T05:19:53.617Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-05-08T05:54:14.958Z",
+      "last_pushed_at": "2026-05-08T05:54:14.958Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:70": {
+      "kind": "problem",
+      "id": "70",
+      "title": "Calculate Image Brightness",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/70",
+      "path": "problems/0070-calculate-image-brightness",
+      "first_solved_at": "2026-05-08T06:14:23.257Z",
+      "last_pushed_at": "2026-05-08T06:14:23.257Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:851": {
+      "kind": "problem",
+      "id": "851",
+      "title": "Train a Sparse Autoencoder on Residual-Stream Activations",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/851",
+      "path": "problems/0851-train-a-sparse-autoencoder-on-residual-stream-activations",
+      "first_solved_at": "2026-05-08T09:38:50.967Z",
+      "last_pushed_at": "2026-05-08T09:38:50.967Z",
+      "language": "python",
+      "lines": 43
+    },
+    "problem:17": {
+      "kind": "problem",
+      "id": "17",
+      "title": "K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/17",
+      "path": "problems/0017-k-means-clustering",
+      "first_solved_at": "2026-05-08T10:32:53.524Z",
+      "last_pushed_at": "2026-05-08T10:32:53.524Z",
+      "language": "python",
+      "lines": 48
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-05-08T10:45:35.074Z",
+      "last_pushed_at": "2026-05-08T10:45:35.074Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-05-08T11:10:33.238Z",
+      "last_pushed_at": "2026-05-08T11:10:33.238Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-05-08T11:24:17.499Z",
+      "last_pushed_at": "2026-05-08T11:24:17.499Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2026-05-08T11:38:18.780Z",
+      "last_pushed_at": "2026-05-08T11:38:18.780Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-05-08T11:53:18.721Z",
+      "last_pushed_at": "2026-05-08T11:53:18.721Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:41": {
+      "kind": "problem",
+      "id": "41",
+      "title": "Simple Convolutional 2D Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/41",
+      "path": "problems/0041-simple-convolutional-2d-layer",
+      "first_solved_at": "2026-05-08T13:10:40.274Z",
+      "last_pushed_at": "2026-05-08T13:10:40.274Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**2** solved · 2 problems · 0 labs · 0 math
+**13** solved · 13 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,8 +12,19 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-05-08 | [solution](problems/0030-batch-iterator-for-dataset) |
+| [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-05-08 | [solution](problems/0070-calculate-image-brightness) |
+| [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-05-08 | [solution](problems/0016-feature-scaling-implementation) |
+| [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-05-08 | [solution](problems/0015-linear-regression-using-gradient-descent) |
+| [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-05-08 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-05-07 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-05-08 | [solution](problems/0029-random-shuffle-of-dataset) |
+| [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-05-08 | [solution](problems/0003-reshape-matrix) |
+| [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-05-08 | [solution](problems/0024-single-neuron) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-05-07 | [solution](problems/0002-transpose-of-a-matrix) |
+| [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-05-08 | [solution](problems/0017-k-means-clustering) |
+| [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-05-08 | [solution](problems/0041-simple-convolutional-2d-layer) |
+| [Train a Sparse Autoencoder on Residual-Stream Activations](https://www.deep-ml.com/problems/851) | medium | 2026-05-08 | [solution](problems/0851-train-a-sparse-autoencoder-on-residual-stream-activations) |
 
 ---
 
