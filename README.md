@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 13 problems · 0 labs · 0 math
+**15** solved · 15 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,8 +22,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-05-08 | [solution](problems/0003-reshape-matrix) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-05-08 | [solution](problems/0024-single-neuron) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-05-07 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-05-11 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-05-08 | [solution](problems/0017-k-means-clustering) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-05-08 | [solution](problems/0041-simple-convolutional-2d-layer) |
+| [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-05-11 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Train a Sparse Autoencoder on Residual-Stream Activations](https://www.deep-ml.com/problems/851) | medium | 2026-05-08 | [solution](problems/0851-train-a-sparse-autoencoder-on-residual-stream-activations) |
 
 ---
